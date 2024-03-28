@@ -1,0 +1,100 @@
+{"doc": "The man turned on the faucet.", "q": "effect", "e0": "The toilet filled with water.", "e1": "Water flowed from the spout.", "lab": 1}
+{"doc": "The girl found a bug in her cereal.", "q": "effect", "e0": "She poured milk in the bowl.", "e1": "She lost her appetite.", "lab": 1}
+{"doc": "The woman retired.", "q": "effect", "e0": "She received her pension.", "e1": "She paid off her mortgage.", "lab": 0}
+{"doc": "I wanted to conserve energy.", "q": "effect", "e0": "I swept the floor in the unoccupied room.", "e1": "I shut off the light in the unoccupied room.", "lab": 1}
+{"doc": "The hamburger meat browned.", "q": "cause", "e0": "The cook froze it.", "e1": "The cook grilled it.", "lab": 1}
+{"doc": "I doubted the salesman's pitch.", "q": "effect", "e0": "I turned his offer down.", "e1": "He persuaded me to buy the product.", "lab": 0}
+{"doc": "I decided to stay home for the night.", "q": "cause", "e0": "The forecast called for storms.", "e1": "My friends urged me to go out.", "lab": 0}
+{"doc": "My eyes became red and puffy.", "q": "cause", "e0": "I was sobbing.", "e1": "I was laughing.", "lab": 0}
+{"doc": "The flame on the candle went out.", "q": "cause", "e0": "I blew on the wick.", "e1": "I put a match to the wick.", "lab": 0}
+{"doc": "The man drank heavily at the party.", "q": "effect", "e0": "He had a headache the next day.", "e1": "He had a runny nose the next day.", "lab": 0}
+{"doc": "The bowling ball knocked over the bowling pins.", "q": "cause", "e0": "The man rolled the bowling ball down the alley.", "e1": "The man dropped the bowling ball on his foot.", "lab": 0}
+{"doc": "The community learned of the man's death.", "q": "cause", "e0": "His family buried him in the cemetery.", "e1": "His obituary appeared in the newspaper.", "lab": 1}
+{"doc": "My computer crashed.", "q": "effect", "e0": "I installed new speakers.", "e1": "I lost all my data.", "lab": 1}
+{"doc": "The woman resigned from her job.", "q": "cause", "e0": "She aspired to hold an executive position in the firm.", "e1": "She believed her superiors were acting unethically.", "lab": 1}
+{"doc": "The player caught the ball.", "q": "cause", "e0": "Her teammate threw it to her.", "e1": "Her opponent tried to intercept it.", "lab": 0}
+{"doc": "The judge pounded the gavel.", "q": "cause", "e0": "The courtroom broke into uproar.", "e1": "The jury announced its verdict.", "lab": 0}
+{"doc": "The woman banished the children from her property.", "q": "cause", "e0": "The children hit a ball into her yard.", "e1": "The children trampled through her garden.", "lab": 1}
+{"doc": "The kidnappers released the hostage.", "q": "cause", "e0": "They accepted ransom money.", "e1": "They escaped from jail.", "lab": 0}
+{"doc": "The cook's eyes watered.", "q": "cause", "e0": "He ran out of onions.", "e1": "He cut an onion.", "lab": 1}
+{"doc": "The woman ran her finger under cold water.", "q": "cause", "e0": "She burned her finger on the toaster.", "e1": "She put a diamond ring on her finger.", "lab": 0}
+{"doc": "The student misspelled the word.", "q": "effect", "e0": "The teacher corrected her.", "e1": "The teacher dismissed her.", "lab": 0}
+{"doc": "I regained composure from my fit of anger.", "q": "cause", "e0": "My heart pounded.", "e1": "I took deep breaths.", "lab": 1}
+{"doc": "I put my hands under the running faucet.", "q": "effect", "e0": "The soap rinsed off my hands.", "e1": "The water splashed in my face.", "lab": 0}
+{"doc": "The man dressed in his best suit.", "q": "cause", "e0": "He scheduled a meeting with an important client.", "e1": "His wife bought him a new tie.", "lab": 0}
+{"doc": "The man confessed his love for the woman.", "q": "effect", "e0": "The woman rejected him.", "e1": "The woman envied him.", "lab": 0}
+{"doc": "The driver got a flat tire.", "q": "cause", "e0": "He went over the speed limit.", "e1": "He ran over a nail.", "lab": 1}
+{"doc": "My view of the movie screen was blocked.", "q": "cause", "e0": "The couple behind me was whispering.", "e1": "A tall person was sitting in front of me.", "lab": 1}
+{"doc": "The driver turned on the car's headlights.", "q": "cause", "e0": "He heard thunder.", "e1": "The sun went down.", "lab": 1}
+{"doc": "The girl refused to eat her vegetables.", "q": "effect", "e0": "Her father told her to drink her milk.", "e1": "Her father took away her dessert.", "lab": 1}
+{"doc": "The woman covered her mouth with her hand.", "q": "cause", "e0": "She exhaled.", "e1": "She sneezed.", "lab": 1}
+{"doc": "The secretary put the caller on hold.", "q": "effect", "e0": "The caller's phone lost reception.", "e1": "The caller waited on the line.", "lab": 1}
+{"doc": "The woman walked with crutches.", "q": "cause", "e0": "She shaved her legs.", "e1": "She broke her leg.", "lab": 1}
+{"doc": "I coughed.", "q": "cause", "e0": "I inhaled smoke.", "e1": "I lowered my voice.", "lab": 0}
+{"doc": "The clock chimed.", "q": "cause", "e0": "It was the top of the hour.", "e1": "The hour seemed to drag on.", "lab": 0}
+{"doc": "The chef hit the egg on the side of the bowl.", "q": "effect", "e0": "The egg cracked.", "e1": "The egg rotted.", "lab": 0}
+{"doc": "The police searched the offender's car.", "q": "cause", "e0": "They were trying to elicit a confession.", "e1": "They were looking for illegal drugs.", "lab": 1}
+{"doc": "The couple travelled south for the winter.", "q": "cause", "e0": "They were retired.", "e1": "They were separated.", "lab": 0}
+{"doc": "The man felt obligated to attend the event.", "q": "cause", "e0": "He turned down his friend's invitation to go.", "e1": "He promised his friend that he would go.", "lab": 1}
+{"doc": "The bride got cold feet before the wedding.", "q": "effect", "e0": "The wedding guests brought gifts.", "e1": "She called the wedding off.", "lab": 1}
+{"doc": "The man grew old.", "q": "effect", "e0": "His hair turned gray.", "e1": "He sold his belongings.", "lab": 0}
+{"doc": "The friends decided to share the hamburger.", "q": "effect", "e0": "They cut the hamburger in half.", "e1": "They ordered fries with the hamburger.", "lab": 0}
+{"doc": "I twisted the cap off the soda bottle.", "q": "effect", "e0": "The soda fizzed.", "e1": "The soda leaked out.", "lab": 0}
+{"doc": "The pair of students came under scrutiny by the teacher.", "q": "cause", "e0": "The students both received excellent grades.", "e1": "Their responses on the assignment were identical.", "lab": 1}
+{"doc": "The student was in a rush to get to school on time.", "q": "effect", "e0": "He left his assignment at home.", "e1": "He brought his lunch to school.", "lab": 0}
+{"doc": "The journalist wrote a biography about the humanitarian's life.", "q": "cause", "e0": "The humanitarian was difficult for the journalist to interview.", "e1": "The journalist was intrigued by the humanitarian's work.", "lab": 1}
+{"doc": "The man defied the authorities of the church.", "q": "effect", "e0": "He donated money to the church.", "e1": "He was excommunicated from the church.", "lab": 1}
+{"doc": "The woman's hair fell in her face.", "q": "effect", "e0": "She pulled her hair back with a clip.", "e1": "She lathered shampoo into her hair.", "lab": 0}
+{"doc": "The ring on my finger got stuck.", "q": "cause", "e0": "My finger swelled.", "e1": "I chipped my fingernail.", "lab": 0}
+{"doc": "I pulled the rubber band.", "q": "effect", "e0": "It flung across the room.", "e1": "It stretched.", "lab": 1}
+{"doc": "I pressed my hand into the wet cement.", "q": "effect", "e0": "My handprint dried in the cement.", "e1": "Cracks emerged in the cement.", "lab": 0}
+{"doc": "My skin broke out into a rash.", "q": "cause", "e0": "I brushed against poison ivy in my yard.", "e1": "I eradicated the poison ivy from my yard.", "lab": 0}
+{"doc": "My subscription to the magazine expired.", "q": "effect", "e0": "I discarded the new issue.", "e1": "I stopped receiving new issues.", "lab": 1}
+{"doc": "The detective revealed an anomaly in the case.", "q": "effect", "e0": "He finalized his theory.", "e1": "He scrapped his theory.", "lab": 1}
+{"doc": "The boy threw a temper tantrum.", "q": "cause", "e0": "His brother took his toys from him.", "e1": "He shared his toys with his brother.", "lab": 0}
+{"doc": "The child learned how to read.", "q": "cause", "e0": "He began attending school.", "e1": "He skipped a grade in school.", "lab": 0}
+{"doc": "The boy skipped dinner.", "q": "cause", "e0": "His mother cooked his favorite meal.", "e1": "He ate a big lunch.", "lab": 1}
+{"doc": "The woman lavished her friend with flattery.", "q": "cause", "e0": "She wanted to ask her friend for a favor.", "e1": "She was irritated with her friend's whining.", "lab": 0}
+{"doc": "The key was missing from my pants pocket.", "q": "cause", "e0": "The pocket had a hole.", "e1": "The pants were new.", "lab": 0}
+{"doc": "The man fainted.", "q": "cause", "e0": "He took a nap.", "e1": "He ran a marathon.", "lab": 1}
+{"doc": "The man lost the competition.", "q": "cause", "e0": "The competition was sabotaged.", "e1": "He intimidated his competitors.", "lab": 0}
+{"doc": "The mother called an ambulance.", "q": "cause", "e0": "Her son lost his cat.", "e1": "Her son fell out of his bed.", "lab": 1}
+{"doc": "The driver slammed on his brakes.", "q": "cause", "e0": "A deer appeared on the road.", "e1": "The car radio shut off.", "lab": 0}
+{"doc": "The lock opened.", "q": "cause", "e0": "I turned the key in the lock.", "e1": "I made a duplicate of the key.", "lab": 0}
+{"doc": "I put rubber gloves on.", "q": "cause", "e0": "I was preparing to wash my hands.", "e1": "I was preparing to clean the bathroom.", "lab": 1}
+{"doc": "The animal species became endangered.", "q": "cause", "e0": "Their habitat was destroyed.", "e1": "Their predators went extinct.", "lab": 0}
+{"doc": "The man perceived that the woman looked different.", "q": "cause", "e0": "The woman got her hair cut.", "e1": "The woman wore a bracelet.", "lab": 0}
+{"doc": "The student forgot to do her assignment.", "q": "effect", "e0": "She made up an excuse to tell the teacher.", "e1": "The teacher promoted her to the next grade.", "lab": 0}
+{"doc": "The dog barked.", "q": "cause", "e0": "The cat lounged on the couch.", "e1": "A knock sounded at the door.", "lab": 1}
+{"doc": "Plans were announced to replace a local park with a shopping mall.", "q": "effect", "e0": "Environmentalists started a petition.", "e1": "Environmentalists produced a documentary.", "lab": 0}
+{"doc": "The couple was happy to see each other.", "q": "effect", "e0": "They kissed.", "e1": "They rested.", "lab": 0}
+{"doc": "The woman asked the man to leave.", "q": "cause", "e0": "He insulted her.", "e1": "He thanked her.", "lab": 0}
+{"doc": "The tree branch landed in the river.", "q": "effect", "e0": "The branch moved downstream.", "e1": "The river's current became stronger.", "lab": 0}
+{"doc": "The teacher assigned homework to the students.", "q": "effect", "e0": "The students passed notes.", "e1": "The students groaned.", "lab": 1}
+{"doc": "The seasons changed from summer to autumn.", "q": "effect", "e0": "People evacuated their homes.", "e1": "Leaves fell from the trees.", "lab": 1}
+{"doc": "The politician was convicted of fraud.", "q": "effect", "e0": "He campaigned for re-election.", "e1": "He was removed from office.", "lab": 1}
+{"doc": "I pushed the wagon.", "q": "effect", "e0": "The objects in the wagon fell out.", "e1": "The wagon wheels spun forward.", "lab": 1}
+{"doc": "The lobbyist persuaded the legislature to support the bill.", "q": "effect", "e0": "The president vetoed the bill.", "e1": "The legislature passed the bill.", "lab": 1}
+{"doc": "My closet was messy.", "q": "effect", "e0": "I organized it.", "e1": "I decorated it.", "lab": 0}
+{"doc": "I stayed up late.", "q": "effect", "e0": "I had vivid dreams that night.", "e1": "I was tired in the morning.", "lab": 1}
+{"doc": "The man's pocket jingled as he walked.", "q": "cause", "e0": "His pocket was filled with coins.", "e1": "He sewed the hole in his pocket.", "lab": 0}
+{"doc": "Everyone in the class turned to stare at the student.", "q": "cause", "e0": "The student's phone rang.", "e1": "The student took notes.", "lab": 0}
+{"doc": "The horse bucked.", "q": "cause", "e0": "A fly bit the horse.", "e1": "The rider stroked the horse.", "lab": 0}
+{"doc": "The jewelry thieves were caught.", "q": "effect", "e0": "The stolen jewelry was returned to its owners.", "e1": "The cost of the stolen jewelry was calculated.", "lab": 0}
+{"doc": "Political violence broke out in the nation.", "q": "effect", "e0": "Many citizens relocated to the capitol.", "e1": "Many citizens took refuge in other territories.", "lab": 1}
+{"doc": "The woman was arrested.", "q": "cause", "e0": "She checked into rehab.", "e1": "She committed assault.", "lab": 1}
+{"doc": "The woman read the newspaper.", "q": "effect", "e0": "She discovered the outcome of the election.", "e1": "She casted a vote in the election.", "lab": 0}
+{"doc": "The sick child coughed on his friend.", "q": "effect", "e0": "His friend got sick.", "e1": "His friend sneezed.", "lab": 0}
+{"doc": "The couple got engaged.", "q": "effect", "e0": "They planned a wedding.", "e1": "They took some time apart.", "lab": 0}
+{"doc": "The woman contacted the real estate agent.", "q": "cause", "e0": "The woman planned to buy a condo.", "e1": "The woman needed to clean her house.", "lab": 0}
+{"doc": "The man won the lottery.", "q": "effect", "e0": "He became rich.", "e1": "He owed money.", "lab": 0}
+{"doc": "I lit the candle.", "q": "effect", "e0": "Wax dripped off the candle.", "e1": "The wax on the candle hardened.", "lab": 0}
+{"doc": "I spent the day at the pool.", "q": "effect", "e0": "I sprained my ankle.", "e1": "My face got sunburned.", "lab": 1}
+{"doc": "The man received a parking ticket.", "q": "cause", "e0": "He parallel parked on the street.", "e1": "The parking meter expired.", "lab": 1}
+{"doc": "The woman became famous.", "q": "effect", "e0": "Photographers followed her.", "e1": "Her family avoided her.", "lab": 0}
+{"doc": "The girl wanted to wear earrings.", "q": "effect", "e0": "She got her ears pierced.", "e1": "She got a tattoo.", "lab": 0}
+{"doc": "My ears were ringing.", "q": "cause", "e0": "I went to a museum.", "e1": "I went to a concert.", "lab": 1}
+{"doc": "I tidied up my house.", "q": "cause", "e0": "I was swamped with work.", "e1": "I was expecting company.", "lab": 1}
+{"doc": "The airline mishandled my luggage.", "q": "effect", "e0": "They offered me compensation.", "e1": "They cancelled my flight.", "lab": 0}
+{"doc": "The computer was expensive to fix.", "q": "effect", "e0": "I got it repaired.", "e1": "I bought a new one.", "lab": 1}
+{"doc": "The woman was in a bad mood.", "q": "effect", "e0": "She engaged in small talk with her friend.", "e1": "She told her friend to leave her alone.", "lab": 1}
